@@ -46,7 +46,7 @@ key code: String enum {
     in_process = 'I'; 
     on_hold = 'H'; 
     resolved = 'R'; 
-    closed = 'Cl'; 
+    closed = 'C'; 
 };
 criticality : Integer;
 }
