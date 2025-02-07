@@ -155,6 +155,7 @@ annotate service.Incidents with {
     urgency @(
         Common.Label : '{i18n>Urgency}',
         UI.MultiLineText : true,
+        Common.ValueListWithFixedValues : true,
     )
 };
 
